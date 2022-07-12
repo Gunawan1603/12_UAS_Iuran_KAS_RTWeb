@@ -22,9 +22,9 @@ UNIVERSITAS PELITA BANGSA<br>
 
 <hr>
 
-**``link demo : https://gunaoneweb.000webhostapp.com/ ``** <br>
+link demo : https://gunaoneweb.000webhostapp.com/
 
-**``link google drive/youtube : https://drive.google.com/file/d/1qUJ-sjecUcjnk50yloDKbyq8jcOfQ8Gg/view?usp=sharing ``** <br>
+link google drive/youtube : https://drive.google.com/file/d/1qUJ-sjecUcjnk50yloDKbyq8jcOfQ8Gg/view?usp=sharing
 
 
 <hr>
