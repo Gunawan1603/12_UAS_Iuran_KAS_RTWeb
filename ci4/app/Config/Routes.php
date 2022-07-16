@@ -35,10 +35,10 @@ $routes->get('/', 'Home::index');
 //* Additional Routing
 $routes->get('/about', 'Page::about');
 //$routes->get('/warga', 'Page::warga');
-$routes->get('/getwarga', 'warga::index');
-$routes->get('/getiuran', 'iuran::index');
+$routes->get('/warga', 'warga::index');
+$routes->get('/iuran', 'iuran::index');
 //$routes->get('/iuran', 'Page::iuran');
-$routes->get('/getiuran', 'laporan::index');
+$routes->get('/iuran', 'laporan::index');
 $routes->get('/Dashboard_view', 'Dashboard_home::index');
 $routes->get('/faqs', 'Page::faqs');
 
